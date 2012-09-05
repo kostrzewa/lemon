@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <lemon.h>
+#include "../include/lemon.h"
 #include <mpi.h>
 #define MAX_BYTES 0x1000
 

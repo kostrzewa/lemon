@@ -1,5 +1,5 @@
 #include <math.h>
-#include <lemon.h>
+#include "../include/lemon.h"
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
